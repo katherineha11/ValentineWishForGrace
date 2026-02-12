@@ -299,3 +299,8 @@ body {
   }
 }
 #wishText { font-size: 14px; line-height: 1.6; }
+#imagePath{
+  width: 260px;     /* đổi 200 / 220 / 240 / 260 tuỳ m */
+  max-width: 260px;
+  height: auto;
+}
